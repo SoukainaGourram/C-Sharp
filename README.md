@@ -132,7 +132,6 @@
   -   int num?;
   -    int num;
 
-  -    
   19 - Quel mot-clé est utilisé pour déclarer un bloc de code qui doit toujours s'exécuter en C# ?
   - Finally ✓✓
   -  last
