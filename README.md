@@ -1,7 +1,7 @@
    # QCM CSharp :
                   J'ai réalisé un QCM portant sur différents aspects du langage C#.
                   Les questions abordent des concepts fondamentaux tels que les modificateurs d'accès, les méthodes, les types de données, et les caractéristiques spécifiques du langage C#.
-                  J'ai également inclus des éléments du Framework .NET, la gestion des exceptions, ainsi que des fonctionnalités spécifiques comme les delegates et le CLR.
+                  J'ai également inclus des éléments du Framework .NET, la gestion des exceptions, ainsi que des fonctionnalités spécifiques comme les delegates et le CLR:
 
  1- C# fonctionne sur le _________.
   -  Framework .NET ✓✓
